@@ -476,7 +476,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "EG3013MosfetDrive.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
